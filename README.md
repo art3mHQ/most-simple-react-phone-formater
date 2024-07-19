@@ -2,11 +2,10 @@
 Very simple react phone input formater with no strings attached. Initially developed by 
 TomDuffyTech here https://www.youtube.com/watch?v=MqJzsDC1N0U
 
-example
 
 ![demo](https://github.com/art3mHQ/most-simple-react-phone-formater/blob/main/ezgif-2-837e6d3b99.gif)
 
-
+all the code
 
 ```JavaScript
 import React, { useState } from "react";
