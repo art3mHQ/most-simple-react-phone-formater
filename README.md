@@ -3,7 +3,7 @@ Very simple react phone input formater with no strings attached. Initially devel
 TomDuffyTech here https://www.youtube.com/watch?v=MqJzsDC1N0U
 
 
-```
+```react
 import React, { useState } from "react";
 
 export default function PhoneInputForm() {
