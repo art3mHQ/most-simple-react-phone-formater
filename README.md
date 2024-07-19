@@ -4,7 +4,7 @@ TomDuffyTech here https://www.youtube.com/watch?v=MqJzsDC1N0U
 
 demo
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/art3mHQ/most-simple-react-phone-formater/blob/main/ezgif-2-837e6d3b99.gif))
+![demo](https://github.com/art3mHQ/most-simple-react-phone-formater/blob/main/ezgif-2-837e6d3b99.gif)
 
 code
 
